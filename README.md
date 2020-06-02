@@ -15,7 +15,7 @@
 
 python main.py
 
-### Documentation
+### Documentation (How-to Guide)
 
 #### Create __init__.py
 
