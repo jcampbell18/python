@@ -52,7 +52,7 @@ class Report:
         str += summaryReport
         str += self.fp.displayMachines()
         try:
-            f = open(filename, "w+")
+            f = open(self.filename, "w+")
             f.write(str)
         finally:
             f.close()
