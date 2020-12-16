@@ -2,14 +2,18 @@
 
 ## nmap_parser
 
-- see folder's readme
+- see folder's [readme](https://github.com/jcampbell18/python/tree/master/nmap_parser)
 
 ## automation
 
 ### LinkedIn Learning: Using Python for Automation Course by Madecraft
 
-- File IO
-- Organizing (cleaning directories by organizing files to specific folders)
-- Web Browsing (using Selenium and ChromeDriver)
-- Web Scraping (single or multiple pages)
-- APIs (public or private)
+- [File IO](https://github.com/jcampbell18/python/tree/master/automation/FileIO)
+- [Organizing (cleaning directories by organizing files to specific folders)](https://github.com/jcampbell18/python/tree/master/automation/OrganizeMe)
+- [Web Browsing (using Selenium and ChromeDriver)](https://github.com/jcampbell18/python/tree/master/automation/WebBrowsing)
+- [Web Scraping (single or multiple pages)](https://github.com/jcampbell18/python/tree/master/automation/WebScraping)
+- [APIs (public or private)](https://github.com/jcampbell18/python/tree/master/automation/APIs)
+
+## hangman game
+
+- see folder's [readme](https://github.com/jcampbell18/python/tree/master/hangman)
