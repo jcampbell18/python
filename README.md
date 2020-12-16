@@ -1,9 +1,5 @@
 # python
 
-## nmap_parser
-
-- see folder's [readme](https://github.com/jcampbell18/python/tree/master/nmap_parser)
-
 ## automation
 
 ### LinkedIn Learning: Using Python for Automation Course by Madecraft
@@ -17,3 +13,7 @@
 ## hangman game
 
 - see folder's [readme](https://github.com/jcampbell18/python/tree/master/hangman)
+
+## nmap_parser
+
+- see folder's [readme](https://github.com/jcampbell18/python/tree/master/nmap_parser)
