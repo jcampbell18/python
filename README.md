@@ -30,3 +30,7 @@
 ### BlackJack Game
 
 - see folder's [readme](https://github.com/jcampbell18/python/tree/master/blackjack)
+
+### Snake Game
+
+- see folder's [readme](https://github.com/jcampbell18/python/tree/master/snake_game)
