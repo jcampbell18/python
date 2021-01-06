@@ -18,7 +18,7 @@ def output(dealers_hand, players_hand, show_card):
 
 def show_hand(hand, show_card=False):
   if show_card:
-    return f"cards: [{hand[0]}. *]"
+    return f"cards: [{hand[0]}, *]"
   return f"cards: {hand}"
 
 def get_total(hand):
