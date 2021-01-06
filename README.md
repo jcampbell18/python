@@ -31,6 +31,8 @@
 
 - see folder's [readme](https://github.com/jcampbell18/python/tree/master/blackjack)
 
+![Screenshot: Blackjack Game](https://github.com/jcampbell18/python/blob/master/blackjack/BlackjackGame.png)
+
 ### Snake Game
 
 - see folder's [readme](https://github.com/jcampbell18/python/tree/master/snake_game)
