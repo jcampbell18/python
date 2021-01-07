@@ -13,7 +13,7 @@
 
 ## nmap_parser
 
-- see folder's [readme](https://github.com/jcampbell18/python/tree/master/nmap_parser)
+- [Source Code](https://github.com/jcampbell18/python/tree/master/nmap_parser)
 
 ## 100 Days of Python
 
@@ -21,20 +21,23 @@
 
 ### Caesar Cipher
 
-- see folder's [readme](https://github.com/jcampbell18/python/tree/master/caesar_cipher)
+- [Source Code](https://github.com/jcampbell18/python/tree/master/caesar_cipher)
 
 ### Hangman Game
 
-- see folder's [readme](https://github.com/jcampbell18/python/tree/master/hangman)
+- [Source Code](https://github.com/jcampbell18/python/tree/master/hangman)
+
+![screenshot](https://github.com/jcampbell18/python/blob/master/hangman/hangman_screenshot.png)
+
 
 ### BlackJack Game
 
-- see folder's [readme](https://github.com/jcampbell18/python/tree/master/blackjack)
+- [Source Code](https://github.com/jcampbell18/python/tree/master/blackjack)
 
 ![Screenshot: Blackjack Game](https://github.com/jcampbell18/python/blob/master/blackjack/BlackjackGame.png)
 
 ### Snake Game
 
-- see folder's [readme](https://github.com/jcampbell18/python/tree/master/snake_game)
+- [Source Code](https://github.com/jcampbell18/python/tree/master/snake_game)
 
 ![Screenshot: Snake Game](https://github.com/jcampbell18/python/blob/master/snake_game/SnakeGame.png)
